@@ -1,6 +1,27 @@
 ---
-title: "Childcare"
+title: "Eearly Childhood Care & Education"
 format: html
+listing:
+  type: grid
+  sort: 
+    - "title"
+  contents:
+    - "childcare-centers/ecce-*.qmd"
+  fields: [image, title]
 ---
 
-Childcare data here
+# Map
+
+![This will be an embedded RShiny map of childcare centers.](ccmap.png)
+
+# Centers
+
+```{r}
+#| include: false
+
+#library(tidyverse)
+
+#childcare_data <- read_csv("childcare-centers/childcare-centers.csv")
+```
+
+Learn more about the licensed early childhood care & education centers in North Meck.

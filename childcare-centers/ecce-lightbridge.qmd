@@ -1,0 +1,45 @@
+---
+title: "Lightbridge Academy of Huntersville"
+---
+
+```{r setup}
+#| include: false
+
+library(tidyverse)
+options(scipen = 999)
+```
+
+```{r}
+#| include: false
+
+center <- "Lightbridge Academy of Huntersville"
+
+center_data <- read_csv("childcare-centers.csv") %>%
+  filter(Provider_Name == center) 
+```
+
+## Basic Information
+
+Address: `r center_data$Address`
+
+Ages Served: `r center_data$Ages`
+
+Maximum Capacity: `r center_data$Max_Capacity`
+
+Accepts Vouchers? `r center_data$Subsidized_Childcare`
+
+Tuition Insight: `r center_data$Tuition_Insight`
+
+## License
+
+License Number: `r center_data$License_Number`
+
+License Type: `r center_data$Type`
+
+## Learn More
+
+Phone: `r center_data$Phone`
+
+Website: [`r center_data$Website`](%60r%20center_data$Website%60){target="“_blank”"}
+
+Use the center name or license number to search for state records at [`r center_data$State_Link`](%60r%20center_data$State_Link%60){target="“_blank”"}.
