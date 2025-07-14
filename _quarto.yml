@@ -2,12 +2,24 @@ project:
   type: website
 
 website:
-  title: "website"
+  title: "North Meck Community Research"
   navbar:
-    left:
+    background: "#3f4e75"
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - text: Projects
+        menu: 
+          - text: Needs Assessment
+            href: needs-assessment.qmd
+          - text: 2022 Dashboard
+            href: 2022-dashboard.qmd
+          - text: 2025 Dashboard
+            href: 2025-dashboard.qmd
+      - href: resources.qmd
+        text: Resources
+      - href: about.qmd
+        text: About
 
 format:
   html:
@@ -17,5 +29,4 @@ format:
     css: styles.css
     toc: true
 
-
-
+editor: visual
