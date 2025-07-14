@@ -45,14 +45,17 @@
     ]
   },
   {
+    "listing": "/resources.html",
+    "items": []
+  },
+  {
     "listing": "/index.html",
     "items": [
+      "/2025-childcare.html",
+      "/2025-education.html",
+      "/2025-housing.html",
       "/needs-assessment.html",
       "/2022-dashboard.html"
     ]
-  },
-  {
-    "listing": "/resources.html",
-    "items": []
   }
 ]

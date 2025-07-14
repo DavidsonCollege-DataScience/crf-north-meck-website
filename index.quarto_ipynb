@@ -1,0 +1,52 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"Community Research Open Data\"\n",
+        "format: html\n",
+        "---\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "In 2024, Mecklenburg ranked in the top 10 wealthiest counties in North Carolina. While families across Davidson, Cornelius, and Huntersville maintain high household incomes in comparison to the state average, North Mecklenburg is not monolithic. The perception that North Mecklenburg is exclusively wealthy leaves many families behind, including several communities of color.\n",
+        "\n",
+        "A long history of segregation and redlining impacts residents in historically African American neighborhoods such as Pottstown, West Davidson, and Smithville, as well as the predominantly Hispanic/Latinx neighborhood Huntington Green. North Mecklenburg data often eclipses or excludes the experiences within these communities.\n",
+        "\n",
+        "This website intends to provide more insight into the experiences of all North Mecklenburg residents, inclduing both resources and data analysis.\n",
+        "\n",
+        "## Data equity\n",
+        "\n",
+        "Data is not objective; researchers that collect, analyze, interpret, and distribute data hold subjective experiences and potential biases. Marginalized communities have historically faced unequal data access and disproportionate harm from data misuse. A data equity approach focuses on amplifying the voices and experiences of marginalized groups to actively combat this, applying a framework of diversity, equity, and inclusion.\n",
+        "\n",
+        "## Community-based research\n",
+        "\n",
+        "Community-based research is defined as a form of investigation in which the question arises from the needs of a group of individuals. The Community Research Fellows utilize a community-based research approach, including the voices of community members and leaders within data collection and presentation to produce the most comprehensive and accurate picture of North Mecklenburg possible.\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "```{list}\n",
+        "type: grid\n",
+        "sort: false\n",
+        "grid-columns: 3\n",
+        "contents: index1.yml\n",
+        "fields: [title]\n",
+        "```"
+      ],
+      "id": "925605f6"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

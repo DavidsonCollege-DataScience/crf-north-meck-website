@@ -71,7 +71,35 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-2025-dashboard .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-2025-dashboard'] = new List('listing-2025-dashboard', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-previous-projects .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
@@ -84,7 +112,7 @@ ul.task-list li input[type="checkbox"] {
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-previous-projects'] = new List('listing-previous-projects', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -247,12 +275,49 @@ window.Quarto = {
 <section id="community-based-research" class="level2">
 <h2 class="anchored" data-anchor-id="community-based-research">Community-based research</h2>
 <p>Community-based research is defined as a form of investigation in which the question arises from the needs of a group of individuals. The Community Research Fellows utilize a community-based research approach, including the voices of community members and leaders within data collection and presentation to produce the most comprehensive and accurate picture of North Mecklenburg possible.</p>
-
-
-
+<div id="listing-2025-dashboard" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1752513889256" data-listing-reading-time-sort="1" data-listing-word-count-sort="28">
+<a href="./2025-childcare.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+2025 Childcare
+</h5>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1752505970960" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
+<a href="./2025-education.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+2025 Education
+</h5>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1752505970960" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
+<a href="./2025-housing.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+2025 Housing
+</h5>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
 </section>
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="quarto-listing quarto-listing-container-grid" id="listing-previous-projects">
 <div class="list grid quarto-listing-cols-2">
 <div class="g-col-1" data-index="0" data-listing-file-modified-sort="1752506943573" data-listing-reading-time-sort="1" data-listing-word-count-sort="21">
 <a href="./needs-assessment.html" class="quarto-grid-link">
@@ -277,17 +342,6 @@ Needs Assessment
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 2022 Data Dashboard
-</h5>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2">
-<a href="./2025-dashboard.qmd" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-2025 Data Dashboard
 </h5>
 </div>
 </div>

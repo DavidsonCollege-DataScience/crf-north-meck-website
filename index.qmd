@@ -2,11 +2,18 @@
 title: "Community Research Open Data"
 format: html
 listing:
-  type: grid
-  sort: false
-  grid-columns: 2
-  contents: index.yml
-  fields: [image, title]
+  - id: 2025-dashboard
+    type: grid
+    sort: false
+    grid-columns: 3
+    fields: [title]
+    contents: "index1.yml"
+  - id: previous-projects
+    type: grid
+    sort: false
+    grid-columns: 2
+    fields: [image, title]
+    contents: "index.yml"
 ---
 
 In 2024, Mecklenburg ranked in the top 10 wealthiest counties in North Carolina. While families across Davidson, Cornelius, and Huntersville maintain high household incomes in comparison to the state average, North Mecklenburg is not monolithic. The perception that North Mecklenburg is exclusively wealthy leaves many families behind, including several communities of color.
@@ -22,3 +29,7 @@ Data is not objective; researchers that collect, analyze, interpret, and distrib
 ## Community-based research
 
 Community-based research is defined as a form of investigation in which the question arises from the needs of a group of individuals. The Community Research Fellows utilize a community-based research approach, including the voices of community members and leaders within data collection and presentation to produce the most comprehensive and accurate picture of North Mecklenburg possible.
+
+:::{#2025-dashboard}
+
+:::{#previous-projects}
