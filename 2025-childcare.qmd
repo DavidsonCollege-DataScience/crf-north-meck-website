@@ -1,5 +1,5 @@
 ---
-title: "Eearly Childhood Care & Education"
+title: "Early Childhood Care & Education"
 format: html
 listing:
   type: grid
