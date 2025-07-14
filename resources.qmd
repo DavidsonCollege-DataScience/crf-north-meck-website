@@ -1,5 +1,8 @@
 ---
 title: "Resources"
+listing:
+  contents: resources.yml
+  type: grid
+  grid-columns: 3
+  max-description-length: 300
 ---
-
-Resources here

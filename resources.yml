@@ -1,0 +1,337 @@
+# description includes source summary, available years, area the data covers, and smallest 
+# geographic granularity level(s) as applicable
+
+
+- title: "Charlotte Quality of Life Explorer"
+  path: https://mcmap.org/qol/#43/
+  image: images/quality-of-life.png
+  description: >
+    Maps variables across nine categories in Mecklenburg County by NPA. 
+    Provides links to the data source & more resources for each variable.
+  categories: [housing, demographics, health, childcare, education, economy & employment, transportation, environment, safety]
+
+- title: "Opportunity Atlas"
+  path: https://www.opportunityatlas.org
+  image: images/opportunity-atlas.png
+  description: >
+    Maps variables focused on economic mobility across the United States by tract.
+    Includes data indicating neighborhood characteristics and children's outcomes in adulthood.
+    Shows trends over time and allows for comparison by income, race, & gender.
+  categories: [housing, economy & employment, demographics, health, education]
+  
+- title: "Opportunity Compass"
+  path: https://www.leadingonopportunity.org/opportunity-compass-tool/
+  image: images/opportunity-compass.png
+  description: >
+    Shows data on 33 key drivers of economic mobility across 5 categories in Mecklenburg County.
+    Illustrates change over time.
+  categories: [childcare, education, demographics, housing, health, economy & employment, safety]
+
+- title: "City of Charlotte Open Data"
+  path: https://data.charlottenc.gov/search
+  image: images/open-data.png
+  description: >
+    Includes links to 338 data sets across categories in Mecklenburg County.
+    Includes options to search and filter data sets and represents each in a map and table format.
+  categories: [demographics, housing, health, childcare, education, economy & employment, safety, transportation, environment]
+
+- title: "Charlotte Community Violence Dashboard"
+  path: https://tableau.charlottenc.gov/t/Public/views/CommunityViolenceDashboard2/SplashScreen?%3Aembed=y&%3Aiid=2&%3AisGuestRedirectFromVizportal=y
+  image: images/community-violence.png
+  description: >
+    Includes data on instances of violence, including youth and partner violence, and social determinants of health in Mecklenburg County, mapped by NPA. 
+    Data is provided by the Charlotte-Mecklenburg Police Department and Charlotte Mecklenburg Schools.
+  categories: [education, safety]
+
+- title: "Charlotte Community Displacement Dashboard"
+  path: https://tableau.charlottenc.gov/t/Public/views/CommunityDisplacement/LandingPage?%3Aembed=y&%3Aiid=1&%3AisGuestRedirectFromVizportal=y
+  image: images/community-displacement.png
+  description: >
+    Includes variables that contribute to displacement vulnerability and areas with high risk of displacement in Mecklenburg County.
+    Maps data by NPA and provides general information on displacement.
+  categories: [housing, demographics, economy & employment]
+  
+- title: "Charlotte Population Change Dashboard"
+  path: https://tableau.charlottenc.gov/t/Public/views/PopulationChangeDashboard/HistoricalPopulation?%3Aembed=y&%3Aiid=3&%3AisGuestRedirectFromVizportal=y
+  image: images/population-change.png
+  description: >
+    Shows population data for Mecklenburg County & Charlotte, including trends and future projections.
+  categories: [demographics]
+
+- title: "Charlotte Housing Services Dashboard"
+  path: https://tableau.charlottenc.gov/t/Public/views/HousingDashboard/CityofCharlotteHousingServicesDashboardWelcome?%3Aembed=y&%3Aiid=1&%3AisGuestRedirectFromVizportal=y
+  image: images/housing-services.png
+  description: >
+    Includes information on the development of affordable housing in Mecklenburg County, with data on funding, emergency repair, and housing rehabilitation.
+    Can filter by City Council District, County Commissioner District, Corridors of Opportunity AOI, or Opportunity Zones.
+  categories: [housing]
+
+- title: "Charlotte Rental Affordability Gap Dashboard"
+  path: https://tableau.charlottenc.gov/t/Public/views/RentalAffordabilityGap/Explanation?%3Aembed=y&%3Aiid=1&%3AisGuestRedirectFromVizportal=y
+  image: images/rental-affordability.png
+  description: >
+    Provides the estimated gap in affordable rental housing for Mecklenburg County & Charlotte by different levels of area median income.
+  categories: [housing, economy & employment]
+  
+- title: "Charlotte Code Enforcement Cases"
+  path: https://www.charlottenc.gov/Streets-and-Neighborhoods/Code-Enforcement/Code-Cases
+  image: images/code-enforcement.png
+  description: >
+    Ability to search for specific code cases, or view cases based on type and geography (council district or NPA) in Mecklenburg County.
+  categories: [housing, safety]
+  
+- title: "Charlotte Vision Zero Dashboard"
+  path: https://tableau.charlottenc.gov/t/Public/views/VisionZeroDashboard/StandardView?%3Aembed=y&%3AisGuestRedirectFromVizportal=y&%3Aorigin=card_share_link
+  image: images/vision-zero.png
+  description: >
+    Tracks vehicle collisions within Mecklenburg County, providing data analysis and an interactive map.
+    Includes information on time, demographics, contributing factors.
+  categories: [transportation, safety]
+  
+- title: "Charlotte Road Closures"
+  path: https://charlotte.maps.arcgis.com/apps/webappviewer/index.html?id=0a74d293ced7482e87afb11cbc2691af
+  image: images/road-closures.png
+  description: >
+    Provides a map showing road closures in Mecklenburg County with additional information as applicable.
+  categories: [environment, transportation]
+  
+- title: "Charlotte Capital Project Dashboard"
+  path: https://charlotte.maps.arcgis.com/apps/dashboards/a5079588d9ba4139bb617d64ad970175
+  image: images/capital-project.png
+  description: >
+    Maps capital projects in Mecklenburg County, with an option to filter by council district and project type. 
+    Provides more information on each project.
+  categories: [housing, environment, safety, transportation]
+  
+- title: "Charlotte Explorer Map"
+  path: https://explore.charlottenc.gov
+  image: images/charlotte-explorer.png
+  description: >
+    Provides an interactive map of Mecklenburg County with 337 layers of visual data available to add.
+  categories: [transportation, environment, safety, economy & employment, education, health, housing]
+  
+- title: "Childcare Facility Search"
+  path: https://ncchildcare.ncdhhs.gov/childcaresearch
+  image: images/childcare-search.png
+  description: >
+    Provides a search for child care facilities, with options to sort by license number, name, type, features, and location (city, county, or zipcode).
+  categories: [Childcare]
+  
+- title: "North Carolina Department of Public Instruction Accountability Dashboards"
+  path: https://bi.nc.gov/t/DPIAccountabilityandTesting/views/AccountabilityLandingPage/LandingPage?%3Aembed=y
+  image: images/public-instruction-accountability.png
+  description: >
+    Provides three dashboards covering testing, school performance grades, and graduation rates. 
+    Each provides data visualizations and the ability to sort by individual schools.
+  categories: [education]
+  
+- title: "2021-2022 Mecklenburg County Infant-Toddler Child Care Landscape Study"
+  path: https://ncearlyeducationcoalition.org/wp-content/uploads/2022/05/Mecklenberg.pdf
+  image: images/childcare-landscape.png
+  description: >
+    Includes detailed information on childcare in Mecklenburg County.
+    Covers 
+  categories: [Childcare]
+  
+- title: "North Carolina State Center for Health Statistics"
+  path: https://schs.dph.ncdhhs.gov
+  image: images/health-statistics.png
+  description: >
+    North Carolina, by county
+  categories: [health]
+  
+- title: "North Carolina Early Childhood Integrated Data System"
+  path: https://www.ncdhhs.gov/about/department-initiatives/early-childhood/early-childhood-data/north-carolina-early-childhood-integrated-data-system
+  image: images/early-childhood-integrated-data.png
+  description: >
+    North Carolina, by county
+  categories: [Childcare]
+  
+- title: "Kids Count Data Center"
+  path: https://datacenter.aecf.org/data?location=NC#NC/2/0/char/0
+  image: images/kids-count-center.png
+  description: >
+    North Carolina, by county, school district, city, or congressional district
+  categories: [demographics, housing, economy & employment, childcare, education, safety, health]
+  
+- title: "2025 Kids Count Data Book"
+  path: https://assets.aecf.org/m/resourcedoc/Aecf-2025kidscountdatabook.pdf
+  image: images/kids-count-book.png
+  description: >
+    United States, comparison by state
+  categories: [demographics, education, childcare, health, economy & employment, housing, safety]
+  
+- title: "2023 North Mecklenburg Demographic & Housing Assessment"
+  path: https://ui.charlotte.edu/wp-content/uploads/sites/1003/2024/02/2023_NorthMecklenburgHousing_Final_fullreport-2.pdf
+  image: images/demographic-housing-assessment.png
+  description: >
+    North Mecklenburg, by town (Huntersville, Cornelius, Davidson)
+  categories: [demographics, housing, economy & employment]
+  
+- title: "The Segregation Explorer"
+  path: https://edopportunity.org/segregation/explorer/
+  image: images/segregation-explorer.png
+  description: >
+    United States, by state & school
+  categories: [education, demographics]
+  
+- title: "Mecklenburg County Resident Budget Priority Survey Results"
+  path: https://app.powerbigov.us/view?r=eyJrIjoiMDMwZTM3M2EtNWU3Yy00MjBlLTg0ZGQtZGUzMDM0YTcyYjIwIiwidCI6IjAyZDg3MGEyLWQ3NmItNDg1OC1iMWRiLWMwYTY3ZWQ1NDVjOCJ9
+  image: images/priority-survey.png
+  description: >
+    Mecklenburg County, by Board of County Commissioners District
+  categories: [demographics, housing, health, childcare, education, economy & employment, safety, environment]
+  
+- title: "Town of Davidson Affordable Housing Needs Assessment"
+  path: https://www.townofdavidson.org/DocumentCenter/View/12494/Town-of-Davidson-Affordable-Housing-Needs-Assessment-2022
+  image: images/housing-needs-assessment.png
+  description: >
+    Davidson
+  categories: [demographics, housing, economy & employment]
+  
+- title: "Integrated Postsecondary Education Data System"
+  path: https://nces.ed.gov/ipeds/datacenter/InstitutionByName.aspx?goToReportId=1&sid=c63529ac-710d-4a9e-8604-373f8d30cbd2&rtid=1
+  image: images/postsecondary-education.png
+  description: >
+    United States, by institution
+  categories: [education]
+  
+- title: "Smithville Revitalization & Affordable Housing Plan"
+  path: https://smithvillecommunitycoalition.org/wp-content/uploads/2023/03/SCC_presentation_0323-1.pdf
+  image: images/smithville-plan.png
+  description: >
+    Smithville
+  categories: [demographics, housing, economy & employment]
+  
+- title: "Charlotte Displacement Vulnerability Overlay Maps"
+  path: https://cltfuture2040plan.com/a-equitable-growth-framework-manual/populations-vulnerable-to-displacement-overlay/
+  image: images/displacement-vulnerability-overlay.png
+  description: >
+    Mecklenburg County, by grid cell
+  categories: [demographics, economy & employment, education]
+  
+- title: "Red Line Commuter Rail Project Report"
+  path: https://storymaps.arcgis.com/stories/78fd4ac44d63422c9d6c00bfae0bc996
+  image: images/redline.png
+  description: >
+    Greater surrounding area of Redline Corridor, geographic level varies (pulled from multiple external data sources)
+  categories: [transportation]
+
+- title: "Red Line Commuter Rail Project Public Engagement Report"
+  path: https://www.townofdavidson.org/DocumentCenter/View/15648/PUBLIC-ENGAGEMENT-REPORT-FINAL
+  image: images/redline-public-engagement.png
+  description: >
+    Mecklenburg County
+  categories: [transportation]
+  
+- title: "Mecklenburg County Social Determinants of Health"
+  path: https://healthycommunitiesnc.org/profile/county/mecklenburg-county
+  image: images/social-health-determinants.png
+  description: >
+    Mecklenburg County, by tract
+  categories: [demographics, economy & employment, health, education, housing]
+  
+- title: "2024 Charlotte-Mecklenburg State of Housing Instability & Homelessness Report"
+  path: https://mecklenburghousingdata.org/wp-content/uploads/2020/06/Charlotte-Mecklenburg-State-of-Housing-Instability-and-Homelessness-Report-2024.pdf
+  image: images/state-of-housing.png
+  description: >
+    Mecklenburg County
+  categories: [housing, economy & employment, demographics]
+  
+- title: "Mecklenburg County Living Atlas"
+  path: https://www.arcgis.com/apps/mapviewer/index.html?url=https://meckgis.mecklenburgcountync.gov/server/rest/services
+  image: images/living-atlas.png
+  description: >
+    United States
+  categories: [environment]
+  
+- title: "North Carolina Department of Environmental Quality Community Mapping System"
+  path: https://ncdenr.maps.arcgis.com/apps/webappviewer/index.html?id=1eb0fbe2bcfb4cccb3cc212af8a0b8c8
+  image: images/environmental-quality-mapping.png
+  description: >
+    North Carolina, by block group
+  categories: [environment, safety]
+  
+- title: "Environmental Justice Dashboard"
+  path: https://ncdenr.maps.arcgis.com/apps/dashboards/5b65176a2d494271a871563846c974d7#SetExtent_BlockGroup=929
+  image: images/environmental-justice.png
+  description: >
+    North Carolina, by tract
+  categories: [environment, demographics, health]
+  
+- title: "Charlotte Mecklenburg Evictions Report"
+  path: https://mecklenburghousingdata.org/wp-content/uploads/2017/09/Charlotte-Mecklenburg-Evictions-Report-Part-1.pdf
+  image: images/evictions.png
+  description: >
+    Mecklenburg County
+  categories: [housing]
+  
+- title: "Leading on Opportunity Indicator Glossary"
+  path: https://www.leadingonopportunity.org/wp-content/uploads/2022/12/Indicator-Glossary.pdf
+  image: images/indicator-glossary.png
+  description: >
+    Mecklenburg County
+  categories: [housing, economy & employment, health, childcare, education, demographics]
+  
+- title: "Mecklenburg County Black Wealth Indicators"
+  path: https://blackwealthdata.org/wealth-indicator?firstCounty=Mecklenburg%20County,%20North%20Carolina&secondCounty=national
+  image: images/black-wealth-indicators.png
+  description: >
+    Mecklenburg County
+  categories: [demographics, housing, education, health, economy & employment, environment]
+  
+- title: "North Carolina Community College Performance"
+  path: https://www.nccommunitycolleges.edu/about-us/data-reporting/data-dashboards-page/performance-measure-pm-summary/
+  image: images/community-college-performance.png
+  description: >
+    North Carolina, by college
+  categories: [education]
+  
+- title: "Childcare Supply & Demand Map"
+  path: https://experience.arcgis.com/experience/a2aa68b9b7674da480cd53c465a158b6/
+  image: images/childcare-supply-and-demand.png
+  description: >
+    Mecklenburg County, by tract
+  categories: [Childcare]
+  
+- title: "North Carolina Data Portal: Community Health Assessment"
+  path: https://ncdataportal.org/community-health-needs-assessment/?REPORT=%7B%22name%22%3A%22North%20Carolina%20Data%20Portal%20Report%22%2C%22style%22%3A%22nc%22%2C%22contentId%22%3A%22%23cdt-report-content%22%2C%22output%22%3A%7B%22countylist%22%3Afalse%2C%22statelist%22%3Atrue%2C%22ziplist%22%3Afalse%2C%22tractlist%22%3Afalse%2C%22map%22%3Atrue%2C%22breakout%22%3Atrue%7D%2C%22indicatorUid%22%3A%5B%226%22%2C%22213%22%2C%22771%22%5D%2C%22indicator%22%3A%5B81%2C82%2C83%5D%2C%22location%22%3A%7B%22key%22%3A%22county%22%2C%22type%22%3A%22county%22%2C%22remove_county%22%3Afalse%2C%22show_county%22%3Atrue%2C%22show_state%22%3Atrue%2C%22show_zip%22%3Afalse%2C%22show_zip_onload%22%3Afalse%2C%22show_tract%22%3Afalse%2C%22id%22%3A%5B%2237119%22%5D%2C%22name%22%3A%5B%22Mecklenburg%20County%2C%20NC%22%5D%7D%7D
+  image: images/community-health-assessment.png
+  description: >
+    Mecklenburg County, by tract
+  categories: [health, demographics]
+  
+- title: "Cornelius Police Department Annual Reports"
+  path: https://www.cornelius.org/police/annualreports.php
+  image: images/cornelius-police.png
+  description: >
+    Cornelius
+  categories: [safety]
+  
+- title: "Davidson Annual Analysis for Bias-Based Policing"
+  path: https://www.townofdavidson.org/1321/Police-Statistical-Data
+  image: images/davidson-police-bias.png
+  description: >
+    Davidson
+  categories: [demographics, safety]
+  
+- title: "Davidson Police Department Annual Report 2024"
+  path: https://www.townofdavidson.org/DocumentCenter/View/15710/2024-Annual-Report
+  image: images/davidson-police-report.png
+  description: >
+    Davidson
+  categories: [safety]
+  
+- title: "Davidson Fire Department Annual Report 2024"
+  path: https://www.townofdavidson.org/DocumentCenter/View/15777/DFD-Annual-Report-2024-1
+  image: images/davidson-fire-report.png
+  description: >
+    Davidson
+  categories: [safety]
+  
+- title: "Huntersville Fire Department Annual Report 2022"
+  path: https://huntersvillefd.com/2022-in-review/
+  image: images/huntersville-fire-report.png
+  description: >
+    Huntersville
+  categories: [safety]
