@@ -41,6 +41,6 @@ License Type: `r center_data$Type`
 
 Phone: `r center_data$Phone`
 
-Website: [`r center_data$Website`](%60r%20center_data$Website%60){target="“_blank”"}
+Website: [`r center_data$Website`](`r center_data$Website`){target="“_blank”"}
 
-Use the center name or license number to search for state records at [`r center_data$State_Link`](%60r%20center_data$State_Link%60){target="“_blank”"}.
+Use the center name or license number to search for state records at [`r center_data$State_Link`](`r center_data$State_Link`){target="“_blank”"}.
