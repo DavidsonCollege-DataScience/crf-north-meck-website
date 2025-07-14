@@ -39,13 +39,13 @@ Allie is a Computer Science major from Seattle, Washington.
 
 ::::: grid
 ::: g-col-4
-![](images/riemer.jpg)
+![](images/calli.jpg)
 :::
 
 ::: g-col-8
 ## Calli Robles (graduating 2026)
 
-calli
+Calli is a Sociology major and Data Science minor from Charlotte, North Carolina.
 :::
 :::::
 
@@ -57,19 +57,19 @@ calli
 ::: g-col-8
 ## Gaby Mata (graduating 2026)
 
-Gaby
+Gaby is a Psychology major and Anthropology minor from Chicago, Illinois.
 :::
 :::::
 
 ::::: grid
 ::: g-col-4
-![](images/riemer.jpg)
+![](images/patrick.jpg)
 :::
 
 ::: g-col-8
 ## Patrick Grimes (graduating 2027)
 
-partick
+Patrick is Data Science major and German Studies minor from New York.
 :::
 :::::
 
