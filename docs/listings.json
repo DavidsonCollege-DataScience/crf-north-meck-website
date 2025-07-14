@@ -45,10 +45,6 @@
     ]
   },
   {
-    "listing": "/resources.html",
-    "items": []
-  },
-  {
     "listing": "/index.html",
     "items": [
       "/2025-childcare.html",
@@ -57,5 +53,9 @@
       "/needs-assessment.html",
       "/2022-dashboard.html"
     ]
+  },
+  {
+    "listing": "/resources.html",
+    "items": []
   }
 ]
