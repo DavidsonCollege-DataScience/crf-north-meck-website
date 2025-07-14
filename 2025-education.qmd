@@ -3,4 +3,10 @@ title: "Education"
 format: html
 ---
 
-Education data here
+Learn more about K-12 education in North Meck.
+
+![](images/education-draft.png)
+
+```{=html}
+<iframe width="600" height="1500" src="https://allievor.shinyapps.io/crf-education/" title="School Demographics"></iframe>
+```
