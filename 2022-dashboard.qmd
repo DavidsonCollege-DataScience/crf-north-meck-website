@@ -2,4 +2,8 @@
 title: "2022 Dashboard"
 ---
 
-2022 dashboard here
+```{=html}
+<iframe width="780" height="500" src="https://crf-dashboard.rc.davidson.edu" title="Data Dashboard (2022)"></iframe>
+```
+
+## → [Explore the full website](https://crf-dashboard.rc.davidson.edu) {style="line-height: 1.2;"}
