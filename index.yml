@@ -1,0 +1,10 @@
+- title: "North Meck Needs Assessment"
+  path: north-meck-needs-assessment.qmd
+  image: images/quality-of-life.png
+
+- title: "North Meck Data Dashboard"
+  path: north-meck-data-dashboard.qmd
+  image: images/2022-dashboard.png
+  
+- title: "2025 Dashboard"
+  path: 2025-dashboard.qmd
