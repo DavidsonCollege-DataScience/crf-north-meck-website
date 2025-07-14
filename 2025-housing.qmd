@@ -3,4 +3,6 @@ title: "Housing"
 format: html
 ---
 
-Housing data here
+Learn more about housing in North Meck.
+
+![](renter-map.png)
