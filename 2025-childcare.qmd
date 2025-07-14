@@ -12,7 +12,7 @@ listing:
 
 # Map
 
-![This will be an embedded RShiny map of childcare centers.](images/ccmap.png)
+![Childcare centers map](images/ccmap.png)
 
 # Centers
 
