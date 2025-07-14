@@ -8,14 +8,20 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - text: Projects
+      - text: 2025 Data Dashboard
+        menu: 
+          - text: Childcare
+            href: 2025-childcare.qmd
+          - text: Education
+            href: 2025-education.qmd
+          - text: Housing
+            href: 2025-housing.qmd
+      - text: Previous Projects
         menu: 
           - text: Needs Assessment
             href: needs-assessment.qmd
           - text: 2022 Dashboard
             href: 2022-dashboard.qmd
-          - text: 2025 Dashboard
-            href: 2025-dashboard.qmd
       - href: resources.qmd
         text: Resources
       - href: about.qmd

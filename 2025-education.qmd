@@ -1,0 +1,6 @@
+---
+title: "Education"
+format: html
+---
+
+Education data here
