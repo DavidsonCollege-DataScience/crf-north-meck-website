@@ -81,7 +81,7 @@ ul.task-list li input[type="checkbox"] {
       valueNames: ['listing-title','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       page: 18,
     pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
-      searchColumns: ["listing-title","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -206,9 +206,9 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    </div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(46)</span></div><div class="category" data-category="Y2hpbGRjYXJl">childcare <span class="quarto-category-count">(11)</span></div><div class="category" data-category="ZGVtb2dyYXBoaWNz">demographics <span class="quarto-category-count">(21)</span></div><div class="category" data-category="ZWNvbm9teSUyMCUyNiUyMGVtcGxveW1lbnQ=">economy &amp; employment <span class="quarto-category-count">(18)</span></div><div class="category" data-category="ZWR1Y2F0aW9u">education <span class="quarto-category-count">(17)</span></div><div class="category" data-category="ZW52aXJvbm1lbnQ=">environment <span class="quarto-category-count">(10)</span></div><div class="category" data-category="aGVhbHRo">health <span class="quarto-category-count">(14)</span></div><div class="category" data-category="aG91c2luZw==">housing <span class="quarto-category-count">(21)</span></div><div class="category" data-category="c2FmZXR5">safety <span class="quarto-category-count">(17)</span></div><div class="category" data-category="dHJhbnNwb3J0YXRpb24=">transportation <span class="quarto-category-count">(8)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -236,6 +236,12 @@ window.Quarto = {
 
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="listing-actions-group">
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
 <div class="list grid quarto-listing-cols-3">
 <div class="g-col-1" data-index="0" data-categories="aG91c2luZyUyQ2RlbW9ncmFwaGljcyUyQ2hlYWx0aCUyQ2NoaWxkY2FyZSUyQ2VkdWNhdGlvbiUyQ2Vjb25vbXklMjAlMjYlMjBlbXBsb3ltZW50JTJDdHJhbnNwb3J0YXRpb24lMkNlbnZpcm9ubWVudCUyQ3NhZmV0eQ==">
 <a href="https://mcmap.org/qol/#2/" class="quarto-grid-link">
