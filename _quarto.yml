@@ -35,5 +35,6 @@ format:
       - brand
     css: styles.css
     toc: true
+    include-after-body: feedback-button.html
 
 editor: visual
