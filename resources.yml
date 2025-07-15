@@ -4,7 +4,6 @@
 
 - title: "Charlotte Quality of Life Explorer"
   path: https://mcmap.org/qol/#2/
-  target: _blank
   image: images/quality-of-life.png
   description: >
     Maps variables across nine categories in Mecklenburg County by NPA. 
@@ -116,7 +115,7 @@
   image: images/childcare-search.png
   description: >
     Provides a search for child care facilities, with options to sort by license number, name, type, features, and location (city, county, or zipcode).
-  categories: [Childcare]
+  categories: [childcare]
   
 - title: "North Carolina Department of Public Instruction Accountability Dashboards"
   path: https://bi.nc.gov/t/DPIAccountabilityandTesting/views/AccountabilityLandingPage/LandingPage?%3Aembed=y
@@ -132,7 +131,7 @@
   description: >
     Includes detailed information on childcare in Mecklenburg County.
     Covers 
-  categories: [Childcare]
+  categories: [childcare]
   
 - title: "North Carolina State Center for Health Statistics"
   path: https://schs.dph.ncdhhs.gov
@@ -146,7 +145,7 @@
   image: images/early-childhood-integrated-data.png
   description: >
     North Carolina, by county
-  categories: [Childcare]
+  categories: [childcare]
   
 - title: "Kids Count Data Center"
   path: https://datacenter.aecf.org/data?location=NC#NC/2/0/char/0
@@ -293,7 +292,7 @@
   image: images/childcare-supply-and-demand.png
   description: >
     Mecklenburg County, by tract
-  categories: [Childcare]
+  categories: [childcare]
   
 - title: "North Carolina Data Portal: Community Health Assessment"
   path: https://ncdataportal.org/community-health-needs-assessment/?REPORT=%7B%22name%22%3A%22North%20Carolina%20Data%20Portal%20Report%22%2C%22style%22%3A%22nc%22%2C%22contentId%22%3A%22%23cdt-report-content%22%2C%22output%22%3A%7B%22countylist%22%3Afalse%2C%22statelist%22%3Atrue%2C%22ziplist%22%3Afalse%2C%22tractlist%22%3Afalse%2C%22map%22%3Atrue%2C%22breakout%22%3Atrue%7D%2C%22indicatorUid%22%3A%5B%226%22%2C%22213%22%2C%22771%22%5D%2C%22indicator%22%3A%5B81%2C82%2C83%5D%2C%22location%22%3A%7B%22key%22%3A%22county%22%2C%22type%22%3A%22county%22%2C%22remove_county%22%3Afalse%2C%22show_county%22%3Atrue%2C%22show_state%22%3Atrue%2C%22show_zip%22%3Afalse%2C%22show_zip_onload%22%3Afalse%2C%22show_tract%22%3Afalse%2C%22id%22%3A%5B%2237119%22%5D%2C%22name%22%3A%5B%22Mecklenburg%20County%2C%20NC%22%5D%7D%7D
