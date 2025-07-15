@@ -4,6 +4,7 @@
 
 - title: "Charlotte Quality of Life Explorer"
   path: https://mcmap.org/qol/#2/
+  target: _blank
   image: images/quality-of-life.png
   description: >
     Maps variables across nine categories in Mecklenburg County by NPA. 
