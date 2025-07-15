@@ -12,7 +12,7 @@ options(scipen = 999)
 ```{r}
 #| include: false
 
-center <- "North Academy of World Languages Ase"
+center <- "North Academy of World Languages Asep"
 
 center_data <- read_csv("childcare-centers.csv") %>%
   filter(Provider_Name == center) 
