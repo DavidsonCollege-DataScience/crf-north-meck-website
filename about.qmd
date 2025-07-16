@@ -43,7 +43,7 @@ Allie is a Computer Science major and Educational Studies minor from Seattle, Wa
 :::
 
 ::: g-col-8
-## Calli Robles, (graduating 2026)
+## Calli Robles, she/her (graduating 2026)
 
 Calli is a Sociology major and Data Science minor from Charlotte, North Carolina.
 :::
@@ -55,7 +55,7 @@ Calli is a Sociology major and Data Science minor from Charlotte, North Carolina
 :::
 
 ::: g-col-8
-## Gaby Mata (graduating 2026)
+## Gaby Mata, she/her (graduating 2026)
 
 Gaby is a Psychology major and Anthropology minor from Chicago, Illinois.
 :::
@@ -67,7 +67,7 @@ Gaby is a Psychology major and Anthropology minor from Chicago, Illinois.
 :::
 
 ::: g-col-8
-## Patrick Grimes (graduating 2027)
+## Patrick Grimes, he/him (graduating 2027)
 
 Patrick is Data Science major and German Studies minor from New York.
 :::
@@ -285,7 +285,7 @@ Garnet was an Economics major, Data Science minor and currently works as a Produ
 :::
 
 ::: g-col-8
-## Dr. Stacey Riemer (2020-25 team)
+## Dr. Stacey Riemer, she/her (2020-25 team)
 
 Stacey Riemer is the Associate Dean of Students & Director of the Center for Civic Engagement. She provides strategic direction, supervision and management to the center for civic engagement, the college union, leadership development, and the Lula Bell Houston Resource Center. She has over 30 years of experience in higher education as a practitioner and faculty member, and currently teaches a seminar on high impact experiential learning each semester.
 :::
@@ -297,7 +297,7 @@ Stacey Riemer is the Associate Dean of Students & Director of the Center for Civ
 :::
 
 ::: g-col-8
-## Dr. Laurie Heyer (2021-25 team)
+## Dr. Laurie Heyer, she/her (2021-25 team)
 
 Laurie Heyer is the John T. Kimbrough Professor of Mathematics and Computer Science, Associate Dean for Data and Computing, and co-director of the Community Research Fellows program at Davidson College. She has co-authored two biology textbooks and conducts collaborative research with students and colleagues in data science.
 :::
@@ -309,7 +309,7 @@ Laurie Heyer is the John T. Kimbrough Professor of Mathematics and Computer Scie
 :::
 
 ::: g-col-8
-## Dr. Andrew O'Geen (2021-22 & 2025 team)
+## Dr. Andrew O'Geen, he/him (2021-22 & 2025 team)
 
 Andrew O’Geen is an Associate Professor of Political Science at Davidson College, where he been teaching since 2011. His research and teaching reflect his general interests in law and politics.
 :::
@@ -321,7 +321,7 @@ Andrew O’Geen is an Associate Professor of Political Science at Davidson Colle
 :::
 
 ::: g-col-8
-## Prof. Pete Benbow (2025 team)
+## Prof. Pete Benbow, he/him (2025 team)
 
 Pete Benbow is the James B. Duke Assistant Professor of Practice in Data Science. He is a technologist specializing in data engineering and business intelligence (BI). His work focuses on integrating large volumes of structured and unstructured information from disparate sources into centralized repositories like data warehouses, then discovering the stories within the data through visualization and analysis. He applied these skills professionally for more than a decade as a developer, team leader, and consultant before he joined the Data Science faculty in 2024. 
 :::
