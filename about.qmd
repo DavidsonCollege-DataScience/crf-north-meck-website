@@ -31,7 +31,7 @@ The inaugural cohort in 2020 completed a needs assessment of the North Mecklenbu
 :::
 
 ::: g-col-8
-## Allie Vorley (graduating 2027)
+## Allie Vorley, she/her (graduating 2027)
 
 Allie is a Computer Science major and Educational Studies minor from Seattle, Washington.
 :::
@@ -43,7 +43,7 @@ Allie is a Computer Science major and Educational Studies minor from Seattle, Wa
 :::
 
 ::: g-col-8
-## Calli Robles (graduating 2026)
+## Calli Robles, (graduating 2026)
 
 Calli is a Sociology major and Data Science minor from Charlotte, North Carolina.
 :::
