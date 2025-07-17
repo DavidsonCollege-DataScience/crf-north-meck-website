@@ -6,8 +6,10 @@ format: html
 Learn more about K-12 education in North Meck.
 
 ```{=html}
-<iframe width="1000" height="900" src="https://maps.mecklenburgcountync.gov/geoportal/#/schools" title="CMS Map"></iframe>
+<iframe width="1000" height="900" src="https://mcmap.org/geoportal/" title="CMS Map"></iframe>
 ```
+
+## → [Explore the full website](https://mcmap.org/geoportal/) {style="line-height: 1.2;"}
 
 ```{=html}
 <iframe width="1000" height="900" src="https://allievor.shinyapps.io/education-bar-graph/" title="Racial Demographics"></iframe>
