@@ -36,5 +36,8 @@ format:
     css: styles.css
     toc: true
     include-after-body: feedback-button.html
+    link-external-icon: true
+    link-external-newwindow: true
 
 editor: visual
+
