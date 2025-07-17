@@ -14,5 +14,5 @@ Learn more about the licensed early childhood care & education centers in North 
 # Centers
 
 ```{=html}
-<iframe width="1000" height="00" src="https://allievor.shinyapps.io/childcare-information1/" title="Racial Demographics"></iframe>
+<iframe width="1000" height="800" src="https://allievor.shinyapps.io/childcare-information1/" title="Racial Demographics"></iframe>
 ```
