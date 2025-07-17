@@ -6,10 +6,10 @@ format: html
 Learn more about K-12 education in North Meck.
 
 ```{=html}
-<iframe width="1000" height="900" src="https://mcmap.org/geoportal/" title="CMS Map"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1UfA2D1BDXnI0YJ_vz5R4al64f1uObiCQ&ehbc=2E312F" width="640" height="480"></iframe>
 ```
 
-## → [Explore the full website](https://mcmap.org/geoportal/) {style="line-height: 1.2;"}
+## → [Explore the full website](https://www.google.com/maps/d/embed?mid=1UfA2D1BDXnI0YJ_vz5R4al64f1uObiCQ&ehbc=2E312F) {style="line-height: 1.2;"}
 
 ```{=html}
 <iframe width="1000" height="900" src="https://allievor.shinyapps.io/education-bar-graph/" title="Racial Demographics"></iframe>
