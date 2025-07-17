@@ -7,10 +7,12 @@ Learn more about the licensed early childhood care & education centers in North 
 
 # Map
 
-![Childcare centers map](images/ccmap.png)
+```{=html}
+<iframe src="https://www.google.com/maps/d/embed?mid=1dAzMPUSCLLpFgbM492gGsVCd_JpkogA&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
+```
 
 # Centers
 
 ```{=html}
-<iframe width="1000" height="900" src="https://allievor.shinyapps.io/childcare-information/" title="Racial Demographics"></iframe>
+<iframe width="1000" height="00" src="https://allievor.shinyapps.io/childcare-information/" title="Racial Demographics"></iframe>
 ```
