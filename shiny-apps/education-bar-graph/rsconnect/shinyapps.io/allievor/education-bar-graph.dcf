@@ -1,0 +1,12 @@
+name: education-bar-graph
+title: education-bar-graph
+username: allievor
+account: allievor
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15085357
+bundleId: 10633365
+url: https://allievor.shinyapps.io/education-bar-graph/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
