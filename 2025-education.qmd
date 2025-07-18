@@ -9,6 +9,8 @@ Learn more about K-12 education in North Meck.
 <iframe src="https://www.google.com/maps/d/embed?mid=1UfA2D1BDXnI0YJ_vz5R4al64f1uObiCQ&ehbc=2E312F" width="640" height="480"></iframe>
 ```
 
+Each school is marked with a colored pin (blue for elementary, yellow for middle, and red for high schools). Click the button on the top left to open a side panel to toggle which pins are visible.
+
 ## → [Explore the full website](https://www.google.com/maps/d/embed?mid=1UfA2D1BDXnI0YJ_vz5R4al64f1uObiCQ&ehbc=2E312F) {style="line-height: 1.2;"}
 
 ```{=html}
