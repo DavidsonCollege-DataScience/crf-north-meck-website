@@ -5,4 +5,6 @@ format: html
 
 Learn more about housing in North Meck.
 
-(add housing map visualizations here)
+```{=html}
+<iframe width="1000" height="600" src="https://allievor.shinyapps.io/housing-map/" title="Housing Map"></iframe>
+```
