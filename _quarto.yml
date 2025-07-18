@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "North Meck Community Research"
+  title: "North Meck Community Portal"
   navbar:
     background: "#3f4e75"
     right:

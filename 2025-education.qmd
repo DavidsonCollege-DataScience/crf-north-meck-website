@@ -12,7 +12,7 @@ Learn more about K-12 education in North Meck.
 ## → [Explore the full website](https://www.google.com/maps/d/embed?mid=1UfA2D1BDXnI0YJ_vz5R4al64f1uObiCQ&ehbc=2E312F) {style="line-height: 1.2;"}
 
 ```{=html}
-<iframe width="1000" height="900" src="https://allievor.shinyapps.io/education-bar-graph/" title="Racial Demographics"></iframe>
+<iframe width="1100" height="900" src="https://allievor.shinyapps.io/education-bar-graph/" title="Racial Demographics"></iframe>
 ```
 
 (Racial demographic data not available for Phoenix Montessori Academy & Guidepost Montessori School)
