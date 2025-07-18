@@ -7,13 +7,13 @@ listing:
     sort: false
     grid-columns: 3
     fields: [title]
-    contents: "index1.yml"
+    contents: "index-listing-2025.yml"
   - id: previous-projects
     type: grid
     sort: false
     grid-columns: 2
     fields: [image, title]
-    contents: "index.yml"
+    contents: "index-listing.yml"
 ---
 
 In 2024, Mecklenburg ranked in the top 10 wealthiest counties in North Carolina (Wilmington Star-News, 2024). While families across Davidson, Cornelius, and Huntersville maintain high household incomes in comparison to the state average, North Mecklenburg is not monolithic (Community Research Fellows Report, 2022). The perception that North Mecklenburg is exclusively wealthy leaves many families behind, including several communities of color.

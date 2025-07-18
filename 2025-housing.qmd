@@ -5,4 +5,4 @@ format: html
 
 Learn more about housing in North Meck.
 
-![](renter-map.png)
+(add housing map visualizations here)
