@@ -1,0 +1,23 @@
+11:32:22.328 [main] INFO  org.ipea.r5r.Network.NetworkChecker - Reading transport network...
+11:32:22.425 [main] INFO  org.ipea.r5r.Network.NetworkChecker - Loading network from file format version nv3, written by R5 commit 5962e18b8ad820f0d0de635157dbb5ecbe1b320f
+11:32:22.428 [main] INFO  com.conveyal.r5.kryo.KryoNetworkSerializer - Reading transport network...
+11:32:22.429 [main] INFO  com.conveyal.r5.kryo.KryoNetworkSerializer - Loading network from file format version nv3, written by R5 commit 5962e18b8ad820f0d0de635157dbb5ecbe1b320f
+11:32:24.573 [main] INFO  com.conveyal.r5.kryo.KryoNetworkSerializer - Done reading.
+11:32:24.574 [main] INFO  com.conveyal.r5.streets.StreetLayer - Building edge lists from edges...
+11:32:25.824 [main] INFO  com.conveyal.r5.streets.StreetLayer - Done building edge lists.
+11:32:25.825 [main] INFO  com.conveyal.r5.streets.StreetLayer - Indexing streets...
+11:32:32.195 [main] INFO  com.conveyal.r5.streets.StreetLayer - Done indexing streets.
+11:32:32.200 [main] INFO  com.conveyal.r5.transit.TransitLayer - Rebuilding transient indices.
+11:32:32.214 [main] INFO  com.conveyal.r5.transit.TransitLayer - Done rebuilding transient indices.
+11:35:38.169 [ForkJoinPool.commonPool-worker-4] ERROR com.conveyal.r5.transit.TransportNetwork - TransportNetwork transit layer is loaded but timezone is unknown; API request times will be interpreted as GMT.
+11:36:06.054 [ForkJoinPool.commonPool-worker-15] ERROR com.conveyal.r5.transit.TransportNetwork - TransportNetwork transit layer is loaded but timezone is unknown; API request times will be interpreted as GMT.
+11:36:20.904 [ForkJoinPool.commonPool-worker-3] ERROR com.conveyal.r5.transit.TransportNetwork - TransportNetwork transit layer is loaded but timezone is unknown; API request times will be interpreted as GMT.
+11:36:31.775 [ForkJoinPool.commonPool-worker-15] ERROR com.conveyal.r5.transit.TransportNetwork - TransportNetwork transit layer is loaded but timezone is unknown; API request times will be interpreted as GMT.
+11:36:54.470 [ForkJoinPool.commonPool-worker-10] ERROR com.conveyal.r5.transit.TransportNetwork - TransportNetwork transit layer is loaded but timezone is unknown; API request times will be interpreted as GMT.
+11:37:22.576 [ForkJoinPool.commonPool-worker-1] ERROR com.conveyal.r5.transit.TransportNetwork - TransportNetwork transit layer is loaded but timezone is unknown; API request times will be interpreted as GMT.
+11:37:38.989 [ForkJoinPool.commonPool-worker-7] ERROR com.conveyal.r5.transit.TransportNetwork - TransportNetwork transit layer is loaded but timezone is unknown; API request times will be interpreted as GMT.
+11:37:51.122 [ForkJoinPool.commonPool-worker-11] ERROR com.conveyal.r5.transit.TransportNetwork - TransportNetwork transit layer is loaded but timezone is unknown; API request times will be interpreted as GMT.
+11:38:02.108 [ForkJoinPool.commonPool-worker-12] ERROR com.conveyal.r5.transit.TransportNetwork - TransportNetwork transit layer is loaded but timezone is unknown; API request times will be interpreted as GMT.
+11:38:16.604 [ForkJoinPool.commonPool-worker-4] ERROR com.conveyal.r5.transit.TransportNetwork - TransportNetwork transit layer is loaded but timezone is unknown; API request times will be interpreted as GMT.
+11:38:28.665 [ForkJoinPool.commonPool-worker-10] ERROR com.conveyal.r5.transit.TransportNetwork - TransportNetwork transit layer is loaded but timezone is unknown; API request times will be interpreted as GMT.
+11:38:43.489 [ForkJoinPool.commonPool-worker-15] ERROR com.conveyal.r5.transit.TransportNetwork - TransportNetwork transit layer is loaded but timezone is unknown; API request times will be interpreted as GMT.
