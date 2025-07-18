@@ -8,3 +8,9 @@ Learn more about housing in North Meck.
 ```{=html}
 <iframe width="1000" height="600" src="https://allievor.shinyapps.io/housing-map/" title="Housing Map"></iframe>
 ```
+
+## North Meck Affordable Housing Rental Units
+
+```{=html}
+<iframe src="images/Affordable-Housing-Rental-Units-April-2024.pdf" width="100%" height="800px" style="border: none;"></iframe>
+```
