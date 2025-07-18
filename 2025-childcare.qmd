@@ -8,15 +8,11 @@ Learn more about the licensed early childhood care & education centers in North 
 # Map
 
 ```{=html}
-<iframe src="https://www.google.com/maps/d/embed?mid=1dAzMPUSCLLpFgbM492gGsVCd_JpkogA&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://allievor.shinyapps.io/Childcare-map/" width="900" height="740"></iframe>
 ```
-
-Each licensed childcare center is marked with a blue pin. Additionally, those that offer subsidized childcare in the form of vouchers are marked with a red pin. Click the button on the top left to open a side panel and toggle which pins are visible.
-
-## → [Explore the full website](https://www.google.com/maps/d/embed?mid=1dAzMPUSCLLpFgbM492gGsVCd_JpkogA&hl=en&ehbc=2E312F) {style="line-height: 1.2;"}
 
 # Centers
 
 ```{=html}
-<iframe width="1000" height="800" src="https://allievor.shinyapps.io/childcare-information1/" title="Racial Demographics"></iframe>
+<iframe width="1000" height="600" src="https://allievor.shinyapps.io/childcare-information1/" title="Racial Demographics"></iframe>
 ```
